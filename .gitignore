@@ -1,0 +1,10 @@
+      *.pyc
+notes/
+.idea/
+*_env/
+*_env*/
+pg_env_1.7/
+venv/
+*.svg
+
+*.DS_Store
